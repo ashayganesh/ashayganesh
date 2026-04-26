@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Ashay+G+%F0%9F%91%8B;Senior+AI%2FML+Engineer;Shipping+on-device+AI+to+millions+of+phones" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Ashay+%F0%9F%91%8B;Senior+AI%2FML+Engineer;Shipping+on-device+AI+to+millions+of+phones" alt="typing"/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashayganesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashay-g)
