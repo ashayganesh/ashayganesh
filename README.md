@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a **Senior AI/ML Engineer** working at the intersection of **computer vision, generative AI, and on-device intelligence** — turning research-grade ideas into models that ship to millions of devices.
+I'm a **Senior AI/ML Engineer** working at the intersection of **deep learning, generative AI, on-device AI, and computer vision** — turning research-grade ideas into models that ship to millions of devices.
 
 🔭 **Currently** — Senior AI/ML Engineer at **PESU Venture Labs**, leading development of **Instant AI** — a forecasting and analytics platform integrating LLMs, BIRCH, ARIMA, Holt's Linear Model, and STL — and exploring GAN + Stable Diffusion pipelines for high-quality image transformation.
 
@@ -114,7 +114,7 @@ I'm a **Senior AI/ML Engineer** working at the intersection of **computer vision
 
 <div align="center">
 
-### 💬 Always down to chat about computer vision, on-device ML, or smartphone camera magic 📸
+### 💬 Always down to chat about deep learning, generative AI, on-device AI, or computer vision 📸
 
 📍 Bangalore, India · 📧 ashayganesh@gmail.com
 
