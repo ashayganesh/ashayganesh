@@ -32,10 +32,6 @@ I'm a **Senior AI/ML Engineer** working at the intersection of **computer vision
 [![Patent: Lens Reflection Artifact Removal](https://img.shields.io/badge/Patent-Multi--Camera%20Lens%20Reflection%20Artifact%20Removal-1565C0?style=for-the-badge&logo=googlescholar&logoColor=white)](https://patents.google.com/patent/US20260039967A1/en)
 [![Patent: Frame Selection](https://img.shields.io/badge/Patent-Multi--Camera%20Frame%20Selection%20for%20Optimal%20Framing-1565C0?style=for-the-badge&logo=googlescholar&logoColor=white)](https://patents.google.com/patent/WO2025206652A1/en)
 
-- 📄 **[System and Method for Multi-Camera Based Lens Reflection Artifact Removal Against Bright Source Light](https://patents.google.com/patent/US20260039967A1/en)** — Samsung R&D · *Recognized as "Best Patent" by Samsung HQ.* AI-based detection + inpainting reducing reflection artifacts by **>70%**, deployed in Samsung flagship smartphones.
-
-- 📄 **[System and Method for Multi-Camera Frame Selection for Optimal Framing of Image](https://patents.google.com/patent/WO2025206652A1/en)** — Samsung R&D · Unified AI model fusing object detection + aesthetic analysis with **50%** complexity reduction and **10×** inference speedup via NEON; shipped in Samsung flagship smartphones.
-
 ---
 
 ## 🛠️ Tech Stack
